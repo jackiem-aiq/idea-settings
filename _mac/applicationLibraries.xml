@@ -68,7 +68,6 @@
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/lib-tk" />
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/lib-dynload" />
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2020.2/python_stubs/-1120596558" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -84,7 +83,6 @@
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/lib-tk" />
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/lib-dynload" />
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2020.2/python_stubs/-1120596558" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -96,14 +94,12 @@
       <properties>
         <language-level>Scala_2_11</language-level>
         <compiler-classpath>
-          <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-compiler/2.11.12/scala-compiler-2.11.12.jar" />
-          <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar" />
-          <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.12.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.12.jar" />
         </compiler-classpath>
       </properties>
       <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar!/" />
-        <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar!/" />
         <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar!/" />
         <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.12.jar!/" />
       </CLASSES>
