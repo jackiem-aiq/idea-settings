@@ -1,0 +1,18 @@
+<application>
+  <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/Developer/repos/jenkins-as-code/resources/jobDSL/activationRelease.groovy" value="gdsl" />
+    <file url="file://$USER_HOME$/Developer/repos/jenkins-as-code/resources/jobDSL/activationSmoketest.groovy" value="gdsl" />
+    <file url="file://$USER_HOME$/Developer/repos/jenkins-as-code/resources/jobDSL/awsAmiBuild.groovy" value="gdsl" />
+    <file url="file://$USER_HOME$/Developer/repos/jenkins-as-code/resources/jobDSL/database.groovy" value="gdsl" />
+    <file url="file://$USER_HOME$/Developer/repos/jenkins-as-code/resources/jobDSL/devops.groovy" value="gdsl" />
+    <file url="file://$USER_HOME$/Developer/repos/jenkins-as-code/resources/jobDSL/jenkinsTest.groovy" value="gdsl" />
+    <file url="file://$USER_HOME$/Developer/repos/jenkins-as-code/resources/jobDSL/publish.groovy" value="gdsl" />
+    <file url="file://$USER_HOME$/Developer/repos/jenkins-as-code/resources/jobDSL/redeploy.groovy" value="gdsl" />
+    <file url="file://$USER_HOME$/Developer/repos/jenkins-as-code/resources/jobDSL/security.groovy" value="gdsl" />
+    <file url="file://$USER_HOME$/Developer/repos/jenkins-as-code/resources/jobDSL/sepDeploys.groovy" value="gdsl" />
+    <file url="file://$USER_HOME$/Developer/repos/jenkins-as-code/resources/jobDSL/stageDeploy.groovy" value="gdsl" />
+    <file url="file://$USER_HOME$/Developer/repos/jenkins-as-code/resources/jobDSL/tests.groovy" value="gdsl" />
+    <file url="file://$USER_HOME$/Developer/repos/jenkins-as-code/vars/redeployer.groovy" value="Groovy" />
+    <file url="file://$USER_HOME$/Developer/repos/jenkins-as-code/vars/sepDeployer.groovy" value="Groovy" />
+  </component>
+</application>
